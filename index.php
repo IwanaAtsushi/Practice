@@ -1,3 +1,3 @@
 <?php
-echo index;
+echo "fix-B index";
 ?>
